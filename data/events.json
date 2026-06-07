@@ -237,7 +237,7 @@
     "website": "",
     "phone": "970-560-0777",
     "email": "",
-    "rp": 0,
+    "rp": 1,
     "lat": 37.3489,
     "lng": -108.5859
   },
@@ -285,7 +285,7 @@
     "website": "",
     "phone": "",
     "email": "",
-    "rp": 0,
+    "rp": 1,
     "lat": 40.08471,
     "lng": -104.81303
   },
@@ -577,7 +577,7 @@
     "website": "",
     "phone": "406-925-1020",
     "email": "",
-    "rp": 0,
+    "rp": 1,
     "lat": 46.5958,
     "lng": -112.027
   },
@@ -652,7 +652,8 @@
     "phone": "(785) 741-4523",
     "email": "",
     "lat": 40.2659,
-    "lng": -94.0375
+    "lng": -94.0375,
+    "rp": 1
   },
   {
     "id": "zdtuesdaynight0609",
@@ -1097,7 +1098,8 @@
     "phone": "(559) 352-8012",
     "email": "",
     "lat": 36.6777,
-    "lng": -121.6555
+    "lng": -121.6555,
+    "rp": 1
   },
   {
     "id": "highcallproductionstruckropingsa06132026",
@@ -1193,7 +1195,7 @@
     "website": "",
     "phone": "712-380-6298",
     "email": "",
-    "rp": 0,
+    "rp": 1,
     "lat": 35.3273,
     "lng": -96.9253
   },
@@ -1515,7 +1517,7 @@
     "website": "",
     "phone": "417-359-6367",
     "email": "",
-    "rp": 0,
+    "rp": 1,
     "lat": 37.0842,
     "lng": -94.0316
   },
@@ -2272,7 +2274,7 @@
     "website": "",
     "phone": "406-202-3775",
     "email": "",
-    "rp": 0,
+    "rp": 1,
     "lat": 46.5958,
     "lng": -112.027
   },
@@ -3022,7 +3024,7 @@
     "website": "https://lindenvalleyarena.com",
     "phone": "",
     "email": "",
-    "rp": 0,
+    "rp": 1,
     "lat": 34.2406,
     "lng": -110.0459
   },
@@ -3246,7 +3248,7 @@
     "website": "https://www.wesarena.com",
     "phone": "903-556-6283",
     "email": "",
-    "rp": 0,
+    "rp": 1,
     "lat": 33.2815,
     "lng": -96.3985
   },
@@ -4032,7 +4034,7 @@
     "website": "https://charlycrawford.training",
     "phone": "",
     "email": "5flatproductions@gmail.com",
-    "rp": 0,
+    "rp": 1,
     "lat": 40.5233,
     "lng": -104.7108
   },
@@ -4230,7 +4232,8 @@
     "phone": "(208) 407-9518",
     "email": "",
     "lat": 45.4174,
-    "lng": -116.3149
+    "lng": -116.3149,
+    "rp": 1
   },
   {
     "id": "wranglerteamropingwt252",
