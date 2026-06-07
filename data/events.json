@@ -5353,7 +5353,7 @@
     "website": "",
     "phone": "915-251-3409",
     "email": "",
-    "rp": "Arena El Bosque",
+    "rp": 2,
     "lat": 32.0059,
     "lng": -106.5969
   },
@@ -5378,7 +5378,7 @@
     "website": "www.SteerCommander.com",
     "phone": "",
     "email": "",
-    "rp": "Five Diamond Productions",
+    "rp": 1,
     "lat": 34.9335,
     "lng": -95.7698
   },
@@ -5403,7 +5403,7 @@
     "website": "ustrc.com",
     "phone": "256-749-0541",
     "email": "",
-    "rp": "Ed Allen / USTRC",
+    "rp": 15,
     "lat": 34.4943,
     "lng": -85.8477
   },
@@ -5428,7 +5428,7 @@
     "website": "",
     "phone": "469-337-7699",
     "email": "",
-    "rp": "AAP Inc. / DJ TuTu Productions",
+    "rp": 4,
     "lat": 31.8035,
     "lng": -97.0933
   },
@@ -5453,7 +5453,7 @@
     "website": "",
     "phone": "520-560-6886",
     "email": "",
-    "rp": "Sean Dugan",
+    "rp": 2,
     "lat": 33.3488,
     "lng": -112.4912
   },
@@ -5478,7 +5478,7 @@
     "website": "",
     "phone": "361-318-6164",
     "email": "",
-    "rp": "Fatback Productions",
+    "rp": 2,
     "lat": 31.3181,
     "lng": -96.628
   },
@@ -5503,7 +5503,7 @@
     "website": "",
     "phone": "817-996-7428",
     "email": "",
-    "rp": "Horns for Hope / Nelson King",
+    "rp": 3,
     "lat": 32.6777,
     "lng": -97.6045
   },
@@ -5528,7 +5528,7 @@
     "website": "",
     "phone": "719-740-1479",
     "email": "",
-    "rp": "Keith James Memorial",
+    "rp": 3,
     "lat": 39.1289,
     "lng": -103.4637
   }
